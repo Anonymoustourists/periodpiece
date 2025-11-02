@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/period_pieces/__init__.py
+src/period_pieces/pipeline.py
+src/period_pieces.egg-info/PKG-INFO
+src/period_pieces.egg-info/SOURCES.txt
+src/period_pieces.egg-info/dependency_links.txt
+src/period_pieces.egg-info/entry_points.txt
+src/period_pieces.egg-info/requires.txt
+src/period_pieces.egg-info/top_level.txt

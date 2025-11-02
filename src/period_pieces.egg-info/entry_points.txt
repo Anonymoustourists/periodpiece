@@ -1,0 +1,2 @@
+[console_scripts]
+period-pieces = period_pieces.pipeline:main
